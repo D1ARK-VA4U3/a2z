@@ -25,6 +25,6 @@
 
 🔰cd a2z
 
-🔰python2 mainrocx.py
+🔰python mainrocx.py
 
 
